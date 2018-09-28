@@ -34,7 +34,7 @@ description: Ben Harvey's assignments
 
 Results | Repository
 ---|---
-[assignment1 results]()| [assignment1 repositiory]()
+[assignment1 results](https://github.com/zren88/zren88.github.io/blob/master/Assignments/Untitled.ipynb)| [assignment1 repositiory]()
 
 ---
 
