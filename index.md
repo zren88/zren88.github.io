@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Zhijie Ren
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+description: Data analytics graduate highly motivated adaptive student seeking opportunities in Data analytics or processing. Interested in analyzing data, implementing machine learning algorithm and developing advanced models. Adept at performing valuation and visulization analysis. Ability to learn and adapt quickly and provide results under pressure..
 keywords: statistics, data analytics
 ---
 
