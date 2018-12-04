@@ -22,7 +22,7 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
+    <a href="https://github.com/zren88/zren88.github.io/blob/master/Assignments/HW3.ipynb">
         <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
