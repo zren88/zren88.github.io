@@ -16,7 +16,7 @@ keywords: statistics, data analytics
   </div>
 </div>
 
-<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"/>
+<img src=""/>
 ### <a name="Portfolio"></a>Portfolio
 
 <table class="wide">
